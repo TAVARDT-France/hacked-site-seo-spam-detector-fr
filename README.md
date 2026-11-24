@@ -1,4 +1,4 @@
-# Detecteur de Sites Pirates et Spam SEO | TAVARDT France
+# Detecteur de Sites Pirates et Spam SEO
 
 [![Detecteur Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/fr/detecteur-spam-seo-site-pirate/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Pour auditer vos environnements web et verifier l'absence de compromission:
 ## Reponse aux Incidents et Desinfection Web
 
 Pour un assainissement post-piratage et une mise en conformite avec les exigences Recommandations ANSSI et Integrite Web, contactez **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
