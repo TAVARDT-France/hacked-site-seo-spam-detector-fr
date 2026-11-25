@@ -2,6 +2,7 @@
 
 [![Detecteur Spam SEO](https://img.shields.io/badge/TAVARDT-Antispam%20SEO-5b3cf5.svg)](https://tools.tavardt.com/fr/detecteur-spam-seo-site-pirate/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit de securite applicative pour reveler le cloaking conditionnel, l'injection frauduleuse de liens et l'alteration de contenu par des tiers.
 
@@ -56,6 +57,11 @@ Pour un assainissement post-piratage et une mise en conformite avec les exigence
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
