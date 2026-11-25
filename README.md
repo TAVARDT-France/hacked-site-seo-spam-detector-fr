@@ -6,8 +6,6 @@
 
 Audit de securite applicative pour reveler le cloaking conditionnel, l'injection frauduleuse de liens et l'alteration de contenu par des tiers.
 
-Developpe et maintenu par l'unite de reponse aux incidents et d'analyse forensique de **TAVARDT**.
-
 ***
 
 ## Capacites d'Audit Forensique et de Detection d'Intrusion
@@ -37,15 +35,6 @@ python seo_spam_detector.py exemple.fr -json
 
 ***
 
-## Plateforme de Diagnostic en Ligne
-
-Pour auditer vos environnements web et verifier l'absence de compromission:
-
-* **Detecteur de Spam SEO et Sites Pirates Officiel**
-* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
-
-***
-
 ## Reponse aux Incidents et Desinfection Web
 
 Pour un assainissement post-piratage et une mise en conformite avec les exigences Recommandations ANSSI et Integrite Web, contactez **TAVARDT**.
@@ -61,7 +50,7 @@ Pour un assainissement post-piratage et une mise en conformite avec les exigence
 ***
 
 ### Licence
-Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Distribué sous la licence MIT.
 
 ***
 
